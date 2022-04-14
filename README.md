@@ -1,5 +1,5 @@
 # React Basics - Project 1
-This is my first react app, that i made for getting the basics of it.
+This is my first react app, that i made for getting the basics of React, React-Dom, React-scripts & deploying the app via gh-pages.
 
 # Getting Started with Create React App
 
