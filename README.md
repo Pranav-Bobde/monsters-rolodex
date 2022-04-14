@@ -1,3 +1,6 @@
+# React Basics - Project 1
+This is my first react app, that i made for getting the basics of it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
