@@ -1,5 +1,6 @@
 # React Basics - Project 1
-This is my first react app, that i made for getting the basics of React, React-Dom, React-scripts & deploying the app via gh-pages.
+This is my first react app, that i made for getting the basics of React, React-Dom, React-scripts, Component, Class & deploying the app via gh-pages.
+Here is the link to the project: https://pranav-bobde.github.io/monsters-rolodex/
 
 # Getting Started with Create React App
 
